@@ -3,5 +3,5 @@ opencv
 pandas
 numpy
 Pillow
-python-3.11
+
 
